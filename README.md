@@ -29,24 +29,6 @@ The dashboard provides a consolidated view of employee demographics, job satisfa
 
 ---
 
-## 📐 DAX & Analytical Calculations
-
-DAX was used to create important HR metrics and analytical calculations, including:
-
-* Total Employees
-* Attrition Count
-* Attrition Rate
-* Average Age
-* Average Monthly Income
-* Average Years at Company
-* Average Training
-* Gender-wise employee metrics
-* Satisfaction and performance calculations
-
-These calculations allow the dashboard to dynamically respond to the selected analysis and provide consistent HR metrics across pages.
-
----
-
 ## 📊 Dashboard Structure
 
 The dashboard consists of **3 interactive pages** connected through **page navigation buttons**.
