@@ -29,47 +29,6 @@ The dashboard provides a consolidated view of employee demographics, job satisfa
 
 ---
 
-## 🗂️ Dataset
-
-**Dataset:** HR Analytics
-**Source:** Kaggle
-**Records:** 1,470 employees
-**Data Structure:** Single main employee table
-
-The dataset contains employee-level information covering areas such as:
-
-* Employee demographics
-* Job role and department
-* Education
-* Monthly income
-* Job satisfaction
-* Performance rating
-* Years at company
-* Age
-* Overtime
-* Business travel
-* Distance from office
-* Marital status
-* Attrition
-
----
-
-## 🛠️ Data Preparation & Transformation
-
-**Power Query** was used to prepare the raw HR dataset before building the dashboard.
-
-Key preparation activities included:
-
-* Data cleaning and transformation
-* Data type validation
-* Preparing fields for analysis
-* Creating and transforming analytical columns
-* Structuring the dataset for Power BI reporting
-
-Additional **calculated columns, tables, and analytical measures were created using DAX** to support KPI calculations and dashboard visualizations.
-
----
-
 ## 📐 DAX & Analytical Calculations
 
 DAX was used to create important HR metrics and analytical calculations, including:
